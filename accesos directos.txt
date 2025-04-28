@@ -1,0 +1,8 @@
+ctrl F buscar
+ctrl h remplazar
+ctrl o abrir
+ctrl espacio para autocompletar
+ctrl a todo el codigo
+ctrl n abrir nuevo codigo
+ctrl d seleccionar sucesivamente
+alt clic matener seleccionado
